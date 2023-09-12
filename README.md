@@ -86,7 +86,7 @@ Parallel time taken: 97.225000 seconds.
 
 ![image](https://github.com/pranjalken32/Efficient_ICM/assets/76617914/72fb22ab-753e-47b7-8075-fc9bfbb28843)
 
-![image](https://github.com/pranjalken32/Efficient_ICM/assets/76617914/e203ff83-48e9-4ec2-b575-932dea416ffc)
+<br>
 
 ![image](https://github.com/pranjalken32/Efficient_ICM/assets/76617914/e95db961-7058-453e-96e0-b10d0cb2b772)
 
